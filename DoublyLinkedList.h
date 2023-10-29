@@ -1,0 +1,12 @@
+#ifndef LINKEDLISTS_DOUBLYLINKEDLIST_H
+#define LINKEDLISTS_DOUBLYLINKEDLIST_H
+
+#include "LinkedListBase.h"
+
+class DoublyLinkedList
+{
+
+};
+
+
+#endif //LINKEDLISTS_DOUBLYLINKEDLIST_H
